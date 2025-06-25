@@ -4,6 +4,7 @@ SQL (Structured Query Language is used to create and manage databases both hoste
 
 ### Table of contents
 - [Why is SQL useful?](#Why-is-SQL-useful)
+- [Example code](#Example-code)
 
 ## Why is SQL useful?
 SQL allows us to quickly create a query to understand structured data
