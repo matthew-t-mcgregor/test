@@ -11,7 +11,7 @@ SQL allows us to quickly create a query to understand structured data
 [Other useful SQL commands](https://www.w3schools.com/sql/sql_syntax.asp)
 
 #### Example code
-|--------|-------|
+
 |Code|Explanation|
 |-------|---------|
-|`WHERE Employer = Durham University`|Only shows records where the employer equals Durham University
+|`WHERE Employer = Durham University`|Only shows records where the employer equals Durham University|
