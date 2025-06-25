@@ -2,7 +2,7 @@
 SQL (Structured Query Language is used to create and manage databases both hosted on premise and in the cloud
 ![Alt: Example of SQL](https://raw.githubusercontent.com/matthew-t-mcgregor/test/refs/heads/main/sql.png)
 
-### Table of contents
+### Table of contentss
 - [Why is SQL useful?](#Why-is-SQL-useful)
 - [Example code]([https://github.com/matthew-t-mcgregor/test?tab=readme-ov-file#example-code)
 
