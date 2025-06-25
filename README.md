@@ -10,7 +10,8 @@ SQL allows us to quickly create a query to understand structured data
 2. `JOIN` *Allows you to join two tables together using a foreign key* <br>
 [Other useful SQL commands](https://www.w3schools.com/sql/sql_syntax.asp)
 
-#### Example code
+-----------------------------------------------
+## Example code
 
 |Code|Explanation|
 |-------|---------|
