@@ -19,6 +19,6 @@ SQL allows us to quickly create a query to understand structured data
 |`ORDER BY Score DESC`|Orders records based on descending numerical order|
 
 ## Guide to start learning SQL
-[x] W3Schools Guides
-[]Ask a friend
-[x]YouTube guides
+- [x] W3Schools Guides
+- [ ] Ask a friend
+- [x] YouTube guides
