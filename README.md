@@ -9,3 +9,9 @@ SQL allows us to quickly create a query to understand structured data
 1. `CREATE TABLE` *Allows you to create a basic table structure (as shown in the example above)*
 2. `JOIN` *Allows you to join two tables together using a foreign key* <br>
 [Other useful SQL commands](https://www.w3schools.com/sql/sql_syntax.asp)
+
+#### Example code
+|--------|-------|
+|Code|Explanation|
+|-------|---------|
+|`WHERE Employer = Durham University`|Only shows records where the employer equals Durham University
