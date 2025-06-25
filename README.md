@@ -15,3 +15,4 @@ SQL allows us to quickly create a query to understand structured data
 |Code|Explanation|
 |-------|---------|
 |`WHERE Employer = Durham University`|Only shows records where the employer equals Durham University|
+|`ORDER BY Score DESC`|Orders records based on descending numerical order|
